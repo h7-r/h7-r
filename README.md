@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=f5fffa&height=215&section=header&text=Hi%20there👋%20I'm%20pipapalula%20😊&fontColor=87cefa&fontSize=40&&fontAlignY=35&animation=fadeIn$storke=00ffff)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=f5fffa&height=215&section=header&text=Hi%20there👋%20I'm%20pipapalula%20😊&fontColor=87cefa&fontSize=40&&fontAlignY=35&animation=fadeIn$storke=00ffff)
 
 ## Hi there 👋
 
