@@ -39,7 +39,7 @@
 |:---|:---|:---|:---|
 | **[🛒 2KEA-Studio](https://github.com/h7-r/2KEA-Studio)**<br/>[`Live ↗`](https://2-kea-studio.vercel.app) | React 기반 이커머스 웹사이트<br/>`3차 팀 프로젝트` | 기획·디자인 리드 · User Flow 설계<br/>회원가입·리뷰 페이지/모달 구현<br/>폼 유효성 검사 · README · 발표 | `React`<br/>`Vite`<br/>`Emotion` |
 | **[📋 FlowDash](https://github.com/h7-r/flowdash-hr)** | 칸반형 태스크 관리 대시보드<br/>`2차 팀 프로젝트` | 기획 · UI 개발<br/>모달·필터 인터랙션 구현<br/>README 작성 | `JavaScript`<br/>`CSS` |
-| **[🌿 My-Page-Portfolio](https://github.com/h7-r/My-Pagd-Portfolio)** | 콘텐츠 흐름 중심의<br/>반응형 포트폴리오 `개인` | 기획 · 디자인 · 구현 전담 | `HTML`<br/>`CSS` |
+| **[🌿 My-Page-Portfolio](https://github.com/h7-r/My-Page-Portfolio)** | 콘텐츠 흐름 중심의<br/>반응형 포트폴리오 `개인` | 기획 · 디자인 · 구현 전담 | `HTML`<br/>`CSS` |
 
 <sub>팀 프로젝트는 이스트캠프 오르미 프론트엔드 11기 과정에서 진행했습니다.</sub>
 
