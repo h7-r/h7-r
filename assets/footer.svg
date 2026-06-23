@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="byf" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A6C9F2"/>
+      <stop offset="45%" stop-color="#C8DAD8"/>
+      <stop offset="100%" stop-color="#F6E8A6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 위가 곡선인 바텀 (헤더와 자연스럽게 연결) -->
+  <path d="M0,45 C200,12 400,62 600,40 C800,20 1000,64 1200,34 L1200,110 L0,110 Z" fill="url(#byf)"/>
+
+  <circle cx="135" cy="78" r="26" fill="#ffffff" opacity="0.13"/>
+  <circle cx="1070" cy="82" r="40" fill="#ffffff" opacity="0.14"/>
+</svg>
